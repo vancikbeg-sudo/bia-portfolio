@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/Guide.dc.html", "destination": "/guide.html" },
+    { "source": "/BIA Portfolio.dc.html", "destination": "/index.html" },
+    { "source": "/BIA%20Portfolio.dc.html", "destination": "/index.html" }
+  ]
+}
